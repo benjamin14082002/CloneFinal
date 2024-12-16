@@ -1,0 +1,11 @@
+{
+    "usuarios": [
+        {
+            "id":1,
+            "username":"Benjamin",
+            "password":"Benja7u7",
+            "email":"benjaacevedoleon@gmail.com",
+            "isactive":true
+        }
+    ]
+}
